@@ -1,4 +1,4 @@
-# SolcTrans: A Machine Translation Approach to Smart Contract Source Code
+# Machine Translation-based Fine-grained Comments Generation for Solidity Smart Contracts
 
 ## Data
 The *contract* folder contains the 3,000 smart contracts collected from Etherscan. The names of .sol files are contract addresses.
